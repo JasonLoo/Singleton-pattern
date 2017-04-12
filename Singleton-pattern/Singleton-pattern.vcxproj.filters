@@ -18,5 +18,8 @@
     <ClCompile Include="Singleton-pattern.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ThreadSingle-pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
